@@ -31,7 +31,7 @@ In **checkpoint_2** folder you can find the results of the first week of the tec
 <center> Figure 1. Predicted by our algorithm vs Original B&W 3D reconstruction </center>
 
 
-Example of porosity prediction for Beta_1_0.2 dataset from **binarization_results/porosity_csv** folder:
+Example of porosity prediction for one of the datasets from **binarization_results/porosity_csv** folder:
 
 <img src="https://github.com/ddvika/Aramco_technathon_2020/blob/main/checkpoint_2/imgs/df.png" height = "400" width="200" >
 
