@@ -31,10 +31,12 @@ In **checkpoint_2** folder you can find the results of the first week of the tec
 <center> Figure 1. Predicted by our algorithm vs Original B&W 3D reconstruction </center>
 
 
-Example of porosity prediction for Beta_1_0.2 dataset:
+Example of porosity prediction for Beta_1_0.2 dataset from **binarization_results/porosity_csv** folder:
+<img src="https://github.com/ddvika/Aramco_technathon_2020/blob/main/checkpoint_2/imgs/df.png" width="300" >
+<center> Figure 2. Predicted by our algorithm vs Original porosity </center>
 
 <img src="https://github.com/ddvika/Aramco_technathon_2020/blob/main/checkpoint_2/imgs/porosity_prediction.png" width="600" >
-<center> Figure 1. Predicted by our algorithm vs Original porosity </center>
+<center> Figure 3. Predicted by our algorithm vs Original porosity </center>
 
 #### Conclusion
 A comparative analysis of various approaches to image binarization has been carried out.
