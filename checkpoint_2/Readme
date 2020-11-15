@@ -2,7 +2,7 @@ Data provided
 _____________
 
 Notebooks:
-  - run_binarization_example.ipynb - Example of running the algorithm. RUN IT
+  - run_binarization_example.ipynb - Example of running the algorithm. RUN THIS
   - save_all_data.ipynb - save binarized data for all the the datasets
   - testing_segmentation.ipynb - notebook with testing the approaches before creating the main algorithm pipeline
 
