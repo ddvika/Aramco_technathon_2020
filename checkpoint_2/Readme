@@ -11,3 +11,4 @@ Python files:
 
 Folders:
   - binarization_results - folder with predicted binarizes data save in NPZ format
+  - porosity_csv - folder contains Pandas Dataframe with porosity measured for original and predicted data for each of the datasets
