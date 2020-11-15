@@ -27,12 +27,12 @@ Binarization of provided raw CT images was recieved.
 
 3d binarized reconstruction of Beta_1_0.2 dataset:
 
-<img src="https://github.com/ddvika/Aramco_technathon_2020/blob/main/checkpoint_2/imgs/binary_reconstruction.png" width="1000" >
+<img src="https://github.com/ddvika/Aramco_technathon_2020/blob/main/checkpoint_2/imgs/binary_reconstruction.png" width="800" >
 
 <center> Figure 1. Predicted by our algorithm vs Original B&W 3d reconstruction </center>
 
 Example of porosity prediction for Beta_1_0.2 dataset:
 
-<img src="https://github.com/ddvika/Aramco_technathon_2020/blob/main/checkpoint_2/imgs/porosity_prediction.png" width="1000" >
+<img src="https://github.com/ddvika/Aramco_technathon_2020/blob/main/checkpoint_2/imgs/porosity_prediction.png" width="600" >
 <center> Figure 1. Predicted by our algorithm vs Original porosity </center>
 
