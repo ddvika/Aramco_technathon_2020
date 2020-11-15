@@ -11,11 +11,10 @@
 * Vladislav Alekseev
 * Egor Fisher
 
-In **checkpoint_2** folder you can find the results of the first week of the technathon.
-
 ## Brief summary:
 
 ### 1st week results
+In checkpoint_2 folder you can find the results of the first week of the technathon.
 
 Binarization of provided raw CT images was recieved.
 
