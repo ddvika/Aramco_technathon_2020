@@ -31,3 +31,8 @@ Binarization of provided raw CT images was recieved.
 
 <center> Figure 1. Predicted by our algorithm vs Original B&W 3d reconstruction </center>
 
+Example of porosity prediction for Beta_1_0.2 dataset:
+
+<img src="https://github.com/ddvika/Aramco_technathon_2020/blob/main/checkpoint_2/imgs/porosity_prediction.png" width="1000" >
+<center> Figure 1. Predicted by our algorithm vs Original porosity </center>
+
