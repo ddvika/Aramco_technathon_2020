@@ -42,5 +42,5 @@ Example of porosity prediction for one of the datasets from **binarization_resul
 
 #### Conclusion
 A comparative analysis of various approaches to image binarization has been carried out.
- Binarization of all provided raw CT images was recieved. 
+ Binarization of all provided raw CT images was received. 
 
