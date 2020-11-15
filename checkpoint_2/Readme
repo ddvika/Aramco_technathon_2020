@@ -2,12 +2,12 @@ Data provided
 _____________
 
 Notebooks:
-  *run_binarization_example.ipynb* - Example of running the algorithm
-  save_all_data.ipynb - save binarized data for all the the datasets
-  testing_segmentation.ipynb - notebook with testing the approaches before creating the main algorithm pipeline
+  - run_binarization_example.ipynb - Example of running the algorithm
+  - save_all_data.ipynb - save binarized data for all the the datasets
+  - testing_segmentation.ipynb - notebook with testing the approaches before creating the main algorithm pipeline
 
 Python files:
-  utils.py - file with algorithm pipeline and supporting functions for data visualizing and etc
+  - utils.py - file with algorithm pipeline and supporting functions for data visualizing and etc
 
 Folders:
-  binarization_results - folder with predicted binarizes data save in NPZ format
+  - binarization_results - folder with predicted binarizes data save in NPZ format
