@@ -32,7 +32,9 @@ In **checkpoint_2** folder you can find the results of the first week of the tec
 
 
 Example of porosity prediction for Beta_1_0.2 dataset from **binarization_results/porosity_csv** folder:
-<img src="https://github.com/ddvika/Aramco_technathon_2020/blob/main/checkpoint_2/imgs/df.png" height = "500" width="200" >
+
+<img src="https://github.com/ddvika/Aramco_technathon_2020/blob/main/checkpoint_2/imgs/df.png" height = "500" width="300" >
+
 <center> Figure 2. Predicted by our algorithm vs Original porosity </center>
 
 <img src="https://github.com/ddvika/Aramco_technathon_2020/blob/main/checkpoint_2/imgs/porosity_prediction.png" width="600" >
