@@ -10,6 +10,8 @@
 * Victoria Dochkina
 * Vladislav Alekseev
 * Egor Fisher
+## Guideline
+In **checkpoint_2** folder you can find the results of the first week of the technathon.
 
 ## Problem formulation
 
@@ -20,7 +22,6 @@ To obtain 3D digital rock models, computational tomography is typically performe
 ## Brief summary of the results:
 
 ### 1st week results
-In **checkpoint_2** folder you can find the results of the first week of the technathon.
 
 Binarization of provided raw CT images was recieved.
 
