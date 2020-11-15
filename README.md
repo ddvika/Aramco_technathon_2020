@@ -35,7 +35,7 @@ Example of porosity prediction for one of the datasets from **binarization_resul
 
 <img src="https://github.com/ddvika/Aramco_technathon_2020/blob/main/checkpoint_2/imgs/df.png" height = "400" width="200" >
 
-<img src="https://github.com/ddvika/Aramco_technathon_2020/blob/main/checkpoint_2/imgs/porosity_prediction.png" width="600" >
+<img src="https://github.com/ddvika/Aramco_technathon_2020/blob/main/checkpoint_2/imgs/porosity_prediction.png" width="800" >
 <center> Figure 2. Predicted by our algorithm vs Original porosity </center>
 
 #### Conclusion
