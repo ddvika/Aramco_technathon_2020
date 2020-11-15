@@ -23,7 +23,6 @@ To obtain 3D digital rock models, computational tomography is typically performe
 
 ### 1st week results
 In **checkpoint_2** folder you can find the results of the first week of the technathon.
-Binarization of provided raw CT images was recieved.
 
 3D binarized reconstruction of Beta_1_0.2 dataset:
 
@@ -36,4 +35,8 @@ Example of porosity prediction for Beta_1_0.2 dataset:
 
 <img src="https://github.com/ddvika/Aramco_technathon_2020/blob/main/checkpoint_2/imgs/porosity_prediction.png" width="600" >
 <center> Figure 1. Predicted by our algorithm vs Original porosity </center>
+
+#### Conclusion
+A comparative analysis of various approaches to image binarization has been carried out.
+ Binarization of all provided raw CT images was recieved.
 
