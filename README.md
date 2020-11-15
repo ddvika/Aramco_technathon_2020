@@ -22,6 +22,12 @@ To obtain 3D digital rock models, computational tomography is typically performe
 ## Brief summary of the results:
 
 ### 1st week results
-
+In **checkpoint_2** folder you can find the results of the first week of the technathon.
 Binarization of provided raw CT images was recieved.
+
+3d binarized reconstruction of Beta_1_0.2 dataset:
+
+<img src="https://github.com/ddvika/Aramco_technathon_2020/blob/main/checkpoint_2/imgs/binary_reconstruction.png" width="500" >
+
+<center> Figure 1. Predicted by our algorithm vs Original B&W 3d reconstruction </center>
 
