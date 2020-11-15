@@ -5,6 +5,7 @@ Notebooks:
   - run_binarization_example.ipynb - Example of running the algorithm. RUN THIS
   - save_all_data.ipynb - save binarized data for all the the datasets
   - testing_segmentation.ipynb - notebook with testing the approaches before creating the main algorithm pipeline
+  - save_porosity_eval.ipynb - notebook for saving real vs predicted porosity to csv files
 
 Python files:
   - utils.py - file with algorithm pipeline and supporting functions for data visualizing and etc
