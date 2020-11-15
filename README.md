@@ -23,6 +23,7 @@ To obtain 3D digital rock models, computational tomography is typically performe
 
 ### 1st week results
 In **checkpoint_2** folder you can find the results of the first week of the technathon.
+
 Fully unsupervised, robust image segmentation method is proposed.
 
 3D binarized reconstruction of Beta_1_0.2 dataset:
